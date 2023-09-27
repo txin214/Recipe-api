@@ -1,2 +1,2 @@
 # Recipe-api
-A recipe api project
+A recipe api project using Django, Docker, TDD
